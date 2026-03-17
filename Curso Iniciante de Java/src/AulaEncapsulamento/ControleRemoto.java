@@ -1,0 +1,1 @@
+classe Controle Remoto implementa Controlador
